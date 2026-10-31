@@ -18,3 +18,11 @@
 # chore — вспомогательные технические изменения, не относящиеся
 # напрямую к функциональности, например настройка инструментов
 # разработки или обслуживание репозитория.
+#
+# Вопрос 2. Сделайте учебные коммиты и запишите их.
+#
+# 4e34d5e test: add tests for generateReport
+# bfd3ec0 docs: document generateReport function
+# bf41083 style: format project code
+# 07ea655 feat: add generateReport function
+# d9cc070 fix: correct number rounding
